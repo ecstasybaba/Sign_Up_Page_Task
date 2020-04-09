@@ -124,3 +124,23 @@ label {
 .valid_account_login:hover {
     color: #A2A597;
 }
+
+.space,.forward-j,.backward-j,.pointer{
+    position: fixed;
+}
+.space{
+    top: -62px;
+    left: -10px;
+}
+.forward-j{
+    right: -100px;
+    top: -5px;
+}
+.backward-j{
+    left: -50px;
+    bottom: -45px;
+}
+.pointer{
+    right: -70px;
+    bottom: -20px;
+}
